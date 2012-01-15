@@ -5,4 +5,7 @@ In order to use this script make sure to download the python code and place it w
 You may need to make download.sh executable by typing "chmod 755 download.sh"
 After that just run the script: "./download.sh"
 
+BTW, this is one of my first shell scripts to make the downloading automatic. 
+That is, I know this is a very simple script but it helped me and I hope it will help others as well.
+
 Have fun!
