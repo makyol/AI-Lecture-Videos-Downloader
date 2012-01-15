@@ -1,0 +1,8 @@
+This is a simple shell script that downloads all the lecture videos of ai-class automatically.
+
+It uses this: https://gist.github.com/1282440 python code which downloads one video at a time.
+In order to use this script make sure to download the python code and place it with download.sh
+You may need to make download.sh executable by typing "chmod 755 download.sh"
+After that just run the script: "./download.sh"
+
+Have fun!
